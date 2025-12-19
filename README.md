@@ -80,7 +80,7 @@ Kodingan ini memisahkan tampilan antara tamu dan admin dalam satu file yang sama
 <?php endif; ?>
 
 ```
+# berikut adalah hasilnya kalau di run
 
-<img width="1534" height="220" alt="image" src="https://github.com/user-attachments/assets/1ea28fd8-422b-49cb-9d2a-6b329a7ee7ca" />
 <img width="1559" height="684" alt="image" src="https://github.com/user-attachments/assets/1ee93b08-41bc-43ef-bb33-73318d0a180a" />
 <img width="1635" height="725" alt="image" src="https://github.com/user-attachments/assets/4156bd0e-3128-4b9d-a155-f959dcf6c0c9" />
